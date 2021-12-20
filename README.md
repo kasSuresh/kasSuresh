@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kasSuresh
--  Personal Repository for Pet projects
+-  Repo for projects and code maintenence
 
 <!---
 kasSuresh/kasSuresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
